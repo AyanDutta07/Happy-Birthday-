@@ -1,0 +1,9 @@
+Its a small app,you can share it with your beloved ones,Its a pre-made app,built in android studio.
+But here you can change , photos,videos and audios by following this below steps-
+1. If you want to change the name of the app, go to AndroidManifest.xml , and there change android:label="",and within the quotation mark 
+   write what you want to name it.
+2. If you want to change the flash screen image and the text,which appears on starting the app, go to activity_home.xml
+   and there under the textview change android:text="".
+3.To change the image on the flash screen add your image in res>drawable and then delete the previous pic and rename your picture as 
+  "a".
+4.And in same process you can change other video and audio.
